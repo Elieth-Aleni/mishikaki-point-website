@@ -91,6 +91,16 @@ class="image-PC5.jpeg">
 alt="image-PC6.jpeg"
 class="image-PC6
 .jpeg">
+<img src="PC2.jpg"
+alt="image-PC2.jpeg"
+class="image-PC2.jpeg"> 
+<img src="PC4.jpg"
+alt="image-PC4.jpeg"
+class="image-PC4.jpeg">
+
+<img src="PC5.jpg"
+alt="image-PC5.jpeg"
+class="image-PC5.jpeg">
 
 </header>
 <div class="content"
